@@ -1,4 +1,4 @@
-# RedEyed RPG
+[RedEyed RPG](https://i.imgur.com/ge61nXL.png)
 
 RedEyed RPG produces content and software for a variety of Table Top Role Playing Game systems.
 
